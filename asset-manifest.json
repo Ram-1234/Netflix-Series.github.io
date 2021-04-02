@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflix-series.github.io/static/css/main.7dcbd2ae.chunk.css",
+    "main.js": "/netflix-series.github.io/static/js/main.3f69a6d5.chunk.js",
+    "main.js.map": "/netflix-series.github.io/static/js/main.3f69a6d5.chunk.js.map",
+    "runtime-main.js": "/netflix-series.github.io/static/js/runtime-main.4c642d39.js",
+    "runtime-main.js.map": "/netflix-series.github.io/static/js/runtime-main.4c642d39.js.map",
+    "static/js/2.91b85acb.chunk.js": "/netflix-series.github.io/static/js/2.91b85acb.chunk.js",
+    "static/js/2.91b85acb.chunk.js.map": "/netflix-series.github.io/static/js/2.91b85acb.chunk.js.map",
+    "index.html": "/netflix-series.github.io/index.html",
+    "static/css/main.7dcbd2ae.chunk.css.map": "/netflix-series.github.io/static/css/main.7dcbd2ae.chunk.css.map",
+    "static/js/2.91b85acb.chunk.js.LICENSE.txt": "/netflix-series.github.io/static/js/2.91b85acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c642d39.js",
+    "static/js/2.91b85acb.chunk.js",
+    "static/css/main.7dcbd2ae.chunk.css",
+    "static/js/main.3f69a6d5.chunk.js"
+  ]
+}
